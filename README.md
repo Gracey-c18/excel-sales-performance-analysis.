@@ -88,5 +88,5 @@ It does not include operating expenses, returns, customer acquisition costs, or 
 
 This project demonstrates practical Excel skills and a structured approach to business analysis, from data validation to performance reporting and recommendations.
 
-**Next steps:** Refine the dashboard, document verified findings, and expand the portfolio with SQL and Power BI projects.
+
 
